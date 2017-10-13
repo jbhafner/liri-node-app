@@ -1,0 +1,6 @@
+COMMAND: do-what-it-says undefined undefined
+COMMAND: do-what-it-says undefined undefined
+COMMAND: movie-this Star Wars undefined
+COMMAND: spotify-this-song The Sign undefined
+COMMAND: fav-tweets undefined undefined
+COMMAND: my-tweets undefined undefined
