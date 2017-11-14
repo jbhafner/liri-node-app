@@ -32,7 +32,7 @@ fs.appendFile('log.txt',"COMMAND: " + vliriCommand + " " + vliriArgument1 + " " 
 		if(err) throw err;
 });
 
-// ============ Function to read command and use proper function ============= //
+// ============ FUNCTION TO READ COMMAND AND CALL PROPER FUNCTION ============= //
 
 function liriCommand(vliriCommand) {
 	if(vliriCommand==='fav-tweets') {

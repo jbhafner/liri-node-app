@@ -4,3 +4,26 @@ COMMAND: movie-this Star Wars undefined
 COMMAND: spotify-this-song The Sign undefined
 COMMAND: fav-tweets undefined undefined
 COMMAND: my-tweets undefined undefined
+COMMAND: spotify-this-song The Sign undefined
+COMMAND: spotify-this-song The Dance Garth Brooks
+COMMAND: do-what-it-says undefined undefined
+COMMAND: do-what-it-says undefined undefined
+COMMAND: fav-tweets undefined undefined
+COMMAND: my-tweets undefined undefined
+COMMAND: undefined undefined undefined
+COMMAND: movie-this Star Wars undefined
+COMMAND: spotify-this-song too good at goodbye undefined
+COMMAND: spotify-this-song undefined undefined
+COMMAND: undefined undefined undefined
+COMMAND: my-tweets undefined undefined
+COMMAND: fav-tweets undefined undefined
+COMMAND: fav-tweets undefined undefined
+COMMAND: undefined undefined undefined
+COMMAND: fav-tweets undefined undefined
+COMMAND: fav-tweets undefined undefined
+COMMAND: undefined undefined undefined
+COMMAND: movie-this Star Wars undefined
+COMMAND: spotify-this too good at goodbye undefined
+COMMAND: spotify-this-song too good at goodbye undefined
+COMMAND: spotify-this-song undefined undefined
+COMMAND: spotify-this-song undefined undefined
